@@ -1,1 +1,1 @@
-# holbertonschool-softy-pinko-docker
+In this project I am working with Docker which is an open platform that enables developers to package applications and their dependencies into standardized, lightweight, and portable containers. These containers encapsulate everything needed to run an application-code, runtime, system tools, libraries, and settings-ensuring the application runs consistently across different environments, from development to production. Here I practice how to create images, the containers and how to connect the APIs.
